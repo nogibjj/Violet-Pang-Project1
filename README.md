@@ -1,12 +1,13 @@
 # Violet-Pang-Project1
 This is the repo for Violet's project 1: Cloud Continuous Delivery of Microservice (MLOps or Data Engineering Focused)
 
-This project included below features: 
-  Create a Microservice in Fast API
-  Push source code to Github
-  Configure Build System to Deploy changes
-  Use IaC (Infrastructure as Code) to deploy code
-  Use either Azure-Databricks to depoly the data files
+###This project included below features:
+  ####Establish Databricks codespace and use spark functionality to explore NoaaWeather dataset
+  ####Create a Microservice in Fast API
+  ####Push source code to Github
+  ####Configure Build System to Deploy changes
+  ####Use IaC (Infrastructure as Code) to deploy code
+  ###Use either Azure-Databricks to depoly the data files
 
 
 ## Getting Started
