@@ -13,7 +13,7 @@ Requirements for the software and other tools to build, test and push
 - [Github Codespace](https://github.com/features/codespaces)
 
 
-## Running the tests
+## Running the testsx
 
 # Test out CLI
 databricks clusters list --output JSON | jq
