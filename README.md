@@ -1,9 +1,12 @@
 # Violet-Pang-Project1
-This is the repo for Violet's project 1: Cloud Continuous Delivery of Microservice (MLOps or Data Engineering Focused)
+This is the repo for Violet's project 1: Cloud Continuous Delivery of Microservice and Write a Big Data Script that uses the Pandas API for Spark or Dask
 
 This project included below features: <br>
+Configure the scafflod <br>
 Establish Databricks codespace and use spark functionality to explore NoaaWeather dataset <br>
 Create a Microservice in Fast API <br>
+Build a "unit of work", test it with IPython <br>
+Write a Big Data Script that uses the Pandas API for Spark or Dask <br>
 Push source code to Github <br>
 Configure Build System to Deploy changes <br>
 Use IaC (Infrastructure as Code) to deploy code <br>
@@ -36,8 +39,7 @@ python fastapi-app.py
 
 
 ## Deployment
-
-Add additional notes to deploy this on a live system
+To deploy this project, please open it with codespace and connect your codespace with databricks clusters.
 
 ## Built With
 
